@@ -10,6 +10,7 @@ Features
 • IDS. 
 • Site to Site VPN. 
 • Traffic monitoring and control according to zones.
+• Custom Rules and configurations.
 
 
 
