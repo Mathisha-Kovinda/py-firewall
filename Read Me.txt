@@ -1,0 +1,1 @@
+Extract the tar file and the installation guide will be in the tar file
